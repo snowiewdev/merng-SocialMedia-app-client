@@ -15,14 +15,14 @@ Website Link : https://condescending-noether-6e88b7.netlify.app/
 - Create New Comment
 - Delete Comment
 
-## Tech
-ReactJS: https://reactjs.org/
-Express: https://expressjs.com/
-NodeJS: https://nodejs.org/en/
-GraphQL: https://graphql.org/
-Apollo Server:  https://www.apollographql.com/docs/react/ (Come with Express)
-Semantic UI React: https://react.semantic-ui.com/
-Netlify: https://www.netlify.com/
-Heroku: https://www.heroku.com/
+## Technologies Used
+- ReactJS: https://reactjs.org/
+- Express: https://expressjs.com/
+- NodeJS: https://nodejs.org/en/
+- GraphQL: https://graphql.org/
+- Apollo Server:  https://www.apollographql.com/docs/react/ (Come with Express)
+- Semantic UI React: https://react.semantic-ui.com/
+- Netlify: https://www.netlify.com/
+- Heroku: https://www.heroku.com/
 
 Thanks for checking this out :)
