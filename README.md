@@ -1,8 +1,12 @@
 # MERNG Stack Social Media App
 
 This is a simple social media app built using MERNG stack. 
+
 The frontend is deployed using Netlify and the backend is deployed using Heroku.
+
 Website Link : https://condescending-noether-6e88b7.netlify.app/
+
+Backend Code Link: https://github.com/snowiewdev/merng-SocialMedia-app-server
 
 ## Available Functions
 - Register New User
