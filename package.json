@@ -43,5 +43,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "proxy": "https://stormy-ravine-32306.herokuapp.com/"
 }

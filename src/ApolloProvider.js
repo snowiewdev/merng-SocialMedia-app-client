@@ -4,7 +4,7 @@ import { ApolloClient, InMemoryCache, ApolloProvider, createHttpLink } from '@ap
 import { setContext } from 'apollo-link-context'; // used to add token to authorization header automatically to each http request
 
 const httpLink = createHttpLink({
-  uri: 'http://localhost:5000'
+  uri: 'https://stormy-ravine-32306.herokuapp.com/'
 });
 
 const authLink = setContext(()=>{
