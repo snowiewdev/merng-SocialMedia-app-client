@@ -34,7 +34,7 @@ function Register(props){
   }
 
   return(
-    <div className="form-container">
+    <div className="form-container content-container">
       <Form onSubmit={onSubmit} noValidate className={loading ? "loading" : "" }>
         <h1> Register </h1>
         <Form.Input

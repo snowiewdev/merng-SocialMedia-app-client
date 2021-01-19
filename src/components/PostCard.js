@@ -31,7 +31,7 @@ function PostCard(
           content="Comment"
           size="mini" inverted position='top center'
           trigger={
-            <Button labelPosition='right' as={Link} to={`/posts/${id}`}>
+            <Button labelPosition='right' as={Link} to={`/post/${id}`}>
               <Button color='teal' basic>
                 <Icon name='comments' />
               </Button>

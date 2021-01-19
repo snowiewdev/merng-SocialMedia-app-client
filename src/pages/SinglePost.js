@@ -51,7 +51,7 @@ function SinglePost(props){
     const { id, username, body, createdAt, likes, likeCount, comments, commentCount} = getPost;
 
     postMarkup = (
-      <Grid>
+      <Grid className="content-container">
         <Grid.Row>
           <Grid.Column width={2}>
             <Image src="https://react.semantic-ui.com/images/avatar/large/molly.png" size="small" float="right" />
