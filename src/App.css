@@ -18,3 +18,7 @@
 .ui.red.button:focus, .ui.red.buttons .button:focus{
   background-color: #db2828;
 }
+
+.footer{
+  text-align: center;
+}

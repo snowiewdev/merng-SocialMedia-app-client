@@ -35,9 +35,6 @@ function Home(){
             ))
           )}
         </Grid.Row>
-        <Grid.Row>
-          <p> Welcome to WestWorld Circle </p>
-        </Grid.Row>
       </Grid>
     </div>
   );
