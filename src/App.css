@@ -1,3 +1,7 @@
+.content-container{
+  min-height: 90vh;
+}
+
 .page-title{
   display: block !important;
   text-align: center;
@@ -21,4 +25,9 @@
 
 .footer{
   text-align: center;
+  padding-bottom: 1rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
