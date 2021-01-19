@@ -13,7 +13,7 @@ function Home(){
 
   return(
     <div>
-      <Grid stackable columns={3}>
+      <Grid stackable columns={3} className="content-container">
         <Grid.Row className="page-title">
           <h1> Recent Posts </h1>
         </Grid.Row>
